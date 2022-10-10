@@ -3,8 +3,7 @@
 Technický popis webovej stránky na tému: 
 "Technologický prielom modelu One Plus 7 pro"
 
-Dmitry Ganotsky Projekt v rámci kurzu:
-“Základné metódy tvorby multimediálneho obsahu”
+Projekt
 
 Dátum dokončenia: 9.10.2022
 
