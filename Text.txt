@@ -6,9 +6,9 @@ Technický popis webovej stránky na tému:
 Dmitry Ganotsky Projekt v rámci kurzu:
 “Základné metódy tvorby multimediálneho obsahu”
 
-Dátum dokončenia: 8.10.2022
+Dátum dokončenia: 9.10.2022
 
- Cieľom projektu je sprostredkovať podstatu a koncepciu webovej stránky venovanej popisu modelu telefónu čínskej spoločnosti OnePlus 7 pro. V nižšie uvedenej technickej dokumentácii nájdeme popis štruktúry lokality, odhadované publikum a plán budúceho procesu tvorby. Budú tiež opísané požiadavky, ktorým čelí autor projektu.
+Cieľom projektu je sprostredkovať podstatu a koncepciu webovej stránky venovanej popisu modelu telefónu čínskej spoločnosti OnePlus 7 pro. V nižšie uvedenej technickej dokumentácii nájdeme popis štruktúry lokality, odhadované publikum a plán budúceho procesu tvorby. Budú tiež opísané požiadavky, ktorým čelí autor projektu. !!Phantom changes!!
 Hlavnú tému projektu možno považovať za jednu z najdôležitejších etáp vytvárania webovej stránky. Samozrejme, je to v stanovenom rámci kurzu, ktorý bude podrobne vysvetlený v článku. Daná téma "technologický prielom model One Plus 7 pro" bude vychádzať z mojich osobných skúseností s používaním telefónu. Mojou úlohou je sprostredkovať túto myšlienku prístupnou a vizuálnou formou s využitím znalostí programovania a vykonávania výskumu.
 Stránka bude pozostávať z nasledujúcich častí: hlavné navigačné menu, text článku a blok obrázkov. Pomocou ponuky navigačnej ponuky sa môžete presunúť na ľubovoľné. stránka stránky. Keď umiestnite kurzor myši na názov sekcie alebo potrebný odkaz, pod slovom sa zobrazí rozbaľovací zoznam. Stránka sa skladá z nasledujúcich častí:
 1) História. Táto časť obsahuje rekapituláciu histórie spoločnosti a vývoja jej nového produktu v roku 2019.
