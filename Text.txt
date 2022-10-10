@@ -1,0 +1,19 @@
+ Fakulta informatiky a informačných technológií STU v Bratislave
+
+Technický popis webovej stránky na tému: 
+"Technologický prielom modelu One Plus 7 pro"
+
+Dmitry Ganotsky Projekt v rámci kurzu:
+“Základné metódy tvorby multimediálneho obsahu”
+
+Dátum dokončenia: 8.10.2022
+
+ Cieľom projektu je sprostredkovať podstatu a koncepciu webovej stránky venovanej popisu modelu telefónu čínskej spoločnosti OnePlus 7 pro. V nižšie uvedenej technickej dokumentácii nájdeme popis štruktúry lokality, odhadované publikum a plán budúceho procesu tvorby. Budú tiež opísané požiadavky, ktorým čelí autor projektu.
+Hlavnú tému projektu možno považovať za jednu z najdôležitejších etáp vytvárania webovej stránky. Samozrejme, je to v stanovenom rámci kurzu, ktorý bude podrobne vysvetlený v článku. Daná téma "technologický prielom model One Plus 7 pro" bude vychádzať z mojich osobných skúseností s používaním telefónu. Mojou úlohou je sprostredkovať túto myšlienku prístupnou a vizuálnou formou s využitím znalostí programovania a vykonávania výskumu.
+Stránka bude pozostávať z nasledujúcich častí: hlavné navigačné menu, text článku a blok obrázkov. Pomocou ponuky navigačnej ponuky sa môžete presunúť na ľubovoľné. stránka stránky. Keď umiestnite kurzor myši na názov sekcie alebo potrebný odkaz, pod slovom sa zobrazí rozbaľovací zoznam. Stránka sa skladá z nasledujúcich častí:
+1) História. Táto časť obsahuje rekapituláciu histórie spoločnosti a vývoja jej nového produktu v roku 2019.
+2) Obraz telefónu a jeho technické vlastnosti. Táto časť obsahuje fotografie rozhrania, dizajnu, ako aj tabuľku charakteristík a rôzne testy výkonu procesora. Bude tiež porovnanie s inými modelmi rovnakého veku alebo starších.
+3) Vplyv. Bude povedané, aký vplyv spôsobilo vydanie OnePlus 7 pro na Technologickom trhu. Ako to hodnotili kritici a aké dôsledky nasledovali po vydaní smartfónu.
+Stránka je určená pre publikum všetkých ľudí, ktorí sa zaujímajú o technológiu. V dôsledku toho bude zverejnený vo voľnom prístupe na internete. Priemerný vek návštevníkov stránok sa dá predpokladať od 14 do 60 rokov. Sociálne siete alebo prieskumy môžu pomôcť pri výpočte cieľovej skupiny, v ktorej je možné v budúcnosti identifikovať skutočných používateľov a prijať pre nich návrh a štruktúru. Bude analyzovať, kto má záujem o danú tému a ako je v súčasnosti relevantná. (pripomíname vám, telefón bol vydaný v roku 2019).
+Stránka bude naprogramovaná v značkovacích jazykoch html a css. Pri tvorbe sa uplatnia všetky poznatky získané z programu rozvoja multimediálneho obsahu. Navigácia bude pohodlná a intuitívna pre každého. Je možné pripojiť jazyk java script na zlepšenie vizuálneho vnímania a technických možností.
+Dobre navrhnutý vývoj webových stránok je premyslený proces, počnúc krásnym dizajnom a pohodlnou funkčnosťou, končiac každým premysleným tlačidlom na webe. Chcem použiť takéto zdroje, chcem ich navštíviť a zdieľať. To sú presne tie úlohy, ktoré sa v prvom rade vyriešia. Toto je základ stránky bez ohľadu na predmet smeru a vykonanú funkčnosť. Preto sa po dokončení samotného vývoja stránka podrobí opakovanému testovaniu, v dôsledku čoho sa z nej odstránia všetky chyby a nepresnosti.
